@@ -1,0 +1,12 @@
+{
+  "name": "tinta",
+  "version": "2.5",
+  "description": "hola me llamo tinta un placer estoy aquí para ayudarte ",
+  "main": "sm330.js",
+  "scripts": {
+  "start": "node nombre del archivo creado anteriormente.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
